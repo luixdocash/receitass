@@ -1,0 +1,6 @@
+{
+  "name": "90 Batidas Proteicas na Garrafa",
+  "description": "Página de vendas oficial do Pacote Completo de Receitas de Batidas na Garrafa, Drinks e Bebidas Especiais com 7 materiais digitais e checkout seguro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>90 Batidas Proteicas na Garrafa</title>
+  <meta name="description" content="Receitas rápidas, com macros claros e ingredientes simples para facilitar sua meta proteica nos dias corridos." />
+  <meta property="og:title" content="90 Batidas Proteicas na Garrafa" />
+  <meta property="og:description" content="Receitas rápidas, com macros claros e ingredientes simples para facilitar sua meta proteica nos dias corridos." />
+  <meta property="og:image" content="/banner_hero.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="90 Batidas Proteicas na Garrafa" />
+  <meta name="twitter:description" content="Receitas rápidas, com macros claros e ingredientes simples para facilitar sua meta proteica nos dias corridos." />
+  <meta name="twitter:image" content="/banner_hero.png" />
+  <link rel="preconnect" href="https://cdn.utmify.com.br" crossorigin />
+  <link rel="dns-prefetch" href="https://cdn.utmify.com.br" />
+  <link rel="dns-prefetch" href="https://app.zuptos.com.br" />
+  <link rel="preload" as="image" href="/banner_hero.webp" type="image/webp" fetchpriority="high" />
+  <script>window.pixelId = '6abbf2502050e24d50af1867';</script>
+  <script src="https://cdn.utmify.com.br/scripts/pixel/pixel.js" async defer></script>
+  <script src="https://cdn.utmify.com.br/scripts/utms/latest.js" data-utmify-prevent-subids async defer></script>
+  <script type="module" crossorigin src="/assets/index-BDMegm26.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-DYNEkTUo.css">
+<!-- Wiapy: o checkout não roda o Pixel; ele lê o fbc de ?fbclick= e o fbp de ?fbp=. Passa os da página no clique. -->
+<script>(function(){function c(n){var m=document.cookie.match(new RegExp("(?:^|; )"+n+"=([^;]*)"));try{return m?decodeURIComponent(m[1]):null}catch(e){return null}}var u;function f(){if(u===undefined){u=null;try{var i=new URL(location.href).searchParams.get("fbclid");if(i)u="fb.1."+Date.now()+"."+i}catch(e){}}return u}function fix(e){var a=e.target&&e.target.closest&&e.target.closest("a[href]");if(!a)return;try{var h=new URL(a.href);if(h.hostname!=="pay.wiapy.com")return;var b=c("_fbc")||f(),p=c("_fbp");if(b)h.searchParams.set("fbclick",b);if(p)h.searchParams.set("fbp",p);if(a.href!==h.toString())a.href=h.toString()}catch(e){}}document.addEventListener("click",fix,true);document.addEventListener("auxclick",fix,true)})();</script>
+</head>
+
+<body>
+  <div id="root"></div>
+
+</body>
+
+</html>
